@@ -29,6 +29,7 @@
 28. Enhancement - Resectorised Brest FIR - thanks to @jackedwards815 (Jack Edwards)
 29. Enhancement - Add Gatwick (EGKK) Planner - thanks to @cbyworth (Chad Byworth)
 30. Enhancement - Amend Jersey (EGJJ) Approach Positions - thanks to @danielbutton (Daniel Button)
+31. Bug - Doncaster (EGCN) - Added Gainsborough VRP after incorrect deletion (Rob Terrace)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
